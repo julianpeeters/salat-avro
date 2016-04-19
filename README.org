@@ -2,6 +2,12 @@
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+STARTUP: oddeven
 
+
+* Deprecated
+
+Alas, Salat-Avro is no longer being maintained. Please see [this thread](https://github.com/Banno/salat-avro/pull/4) for a small explanation and some alternatives.
+
+
 * salat-avro
 =salat-avro= is library to quickly encode and decode Scala case classes to and from serialized [[http://avro.apache.org/][Apache Avro]] encodings using [[https://github.com/novus/salat][salat]]. It is very fast.
 ** Usage
